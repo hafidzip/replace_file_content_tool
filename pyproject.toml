@@ -1,7 +1,7 @@
 [project]
-name = "replace-file-content-tool"
+name = "replace_file_content_tool"
 version = "0.1.0"
-description = "Add your description here"
+description = "Edit a single contiguous block in an existing file."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [

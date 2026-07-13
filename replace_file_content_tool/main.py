@@ -18,7 +18,7 @@ Use multi_replace_file_content when editing more than one non-adjacent block.
 
 import logging
 import os
-from typing import Any, Dict, Optional
+from typing import Any, Dict
 import aiofiles
 from openchadpy.tool_base import ToolBase
 
